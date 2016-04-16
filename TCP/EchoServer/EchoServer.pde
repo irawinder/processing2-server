@@ -1,3 +1,8 @@
+// EchoServer is the server component to a mockup client-server protocol
+// Adapted for Processing 2 by Ira Winder, jiw@mit.edu
+// Here's Rick Proctor's original Java tutorial: http://edn.embarcadero.com/article/31995
+
+
 import java.io.*;
 import java.net.*;
 import java.util.*;
